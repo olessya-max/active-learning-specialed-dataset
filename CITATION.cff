@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Dataset for active learning and social-pedagogical competence in special education"
+message: "If you use this dataset, please cite the associated article."
+type: dataset
+authors:
+  - family-names: Toktarbekova
+    given-names: Kuralaya
+  - family-names: Kalykbayeva
+    given-names: Almagul
+  - family-names: Stelmakh
+    given-names: Svetlana
+  - family-names: Autayeva
+    given-names: Akbota
+  - family-names: Paylozyan
+    given-names: Zhanna
+  - family-names: Tyulyupergeneva
+    given-names: Raushan
+repository-code: "https://github.com/olessya-max/active-learning-specialed-dataset"
+license: "CC-BY-4.0"
